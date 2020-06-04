@@ -17,7 +17,7 @@ function promptUser() {
         },
         {
             type: "input",
-            name: "Description",
+            name: "description",
             message: "Provide a short description of your project"
         },
         {
@@ -58,6 +58,9 @@ function generateReadMe(answers) {
 
 # Author: 
 ${answers.github}
+
+## Title of Project: 
+${answers.title}
 
 ## Description of project: 
 ${answers.description}

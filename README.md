@@ -3,8 +3,11 @@
 # Author: 
 IPv5
 
+## Title of Project: 
+README Generator
+
 ## Description of project: 
-undefined
+This project will create a README based off of questions
 
 ## Table of Contents: 
 n/a
@@ -13,7 +16,7 @@ n/a
 n/a
 
 ## Usage: 
-node <filename>
+node <file>
 
 ## License: 
 n/a
